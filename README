@@ -5,6 +5,9 @@ INITIAL SETUP
 
 git clone https://merryprankster@github.com/merryprankster/vim.git ~/.vim
 ln -s ~/.vim/.vimrc ~
+cd ~/.vim
+git submodule init
+git submodule update
 
 ADDING NEW MODULE
 =================
