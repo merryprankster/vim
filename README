@@ -1,5 +1,11 @@
 Note: this module is not necessarily of any use to anyone but me, but you're free to use it anyway ;)
 
+INITIAL SETUP
+=============
+
+git clone https://merryprankster@github.com/merryprankster/vim.git ~/.vim
+ln -s ~/.vim/.vimrc ~
+
 ADDING NEW MODULE
 =================
 
