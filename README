@@ -1,0 +1,8 @@
+Note: this module is not necessarily of any use to anyone but me, but you're free to use it anyway ;)
+
+ADDING NEW MODULE
+=================
+
+git submodule add http://github.com/msanders/snipmate.vim.git bundle/snipmate
+git commit -m "snipmate-plugin"
+git push origin master
