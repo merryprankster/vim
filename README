@@ -15,3 +15,16 @@ ADDING NEW MODULE
 git submodule add http://github.com/msanders/snipmate.vim.git bundle/snipmate
 git commit -m "snipmate-plugin"
 git push origin master
+
+INSTALLED MODULES
+=================
+nerdtree
+snipmate
+sparkup
+supertab
+vim-surround
+
+vim-taglist
+-----------
+Start with :TlistOpen or :TlistToggle
+
