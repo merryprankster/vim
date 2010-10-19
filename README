@@ -23,8 +23,16 @@ snipmate
 sparkup
 supertab
 vim-surround
+------------
+* cs - change surroundings, example: cs"' changes quotes to single quotes
+* ds - delete surroundings, example: ds" removes matching quotes
+* ys - add surroundings, example: ysw" quotes the word where the bracket is
+* ySS - add surroundings with line breaks and intendation, example ySS<foo> surrounds the line with <foo>
 
 vim-taglist
 -----------
+Requirements:
+* Exuberant ctags 5.0 and above (apt-get install exuberant-ctags)
+
 Start with :TlistOpen or :TlistToggle
 
