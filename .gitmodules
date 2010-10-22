@@ -16,3 +16,6 @@
 [submodule "bundle/vim-taglist"]
 	path = bundle/vim-taglist
 	url = http://github.com/chrismetcalf/vim-taglist.git
+[submodule "bundle/ack"]
+	path = bundle/ack
+	url = http://github.com/mileszs/ack.vim.git
