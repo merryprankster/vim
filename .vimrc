@@ -10,3 +10,4 @@ map <Leader>n :NERDTreeToggle<CR>
 map <Leader>t :TlistToggle<CR>
 map <Leader>c :!cd %:p:h && bash<CR>
 map <Leader>d <C-]>
+map <Leader>w <C-w>
