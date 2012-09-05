@@ -21,8 +21,9 @@ INSTALLED MODULES
 nerdtree
 snipmate
 sparkup
-supertab
 vim-surround
+rainbow_parentheses
+
 ------------
 * cs - change surroundings, example: cs"' changes quotes to single quotes
 * ds - delete surroundings, example: ds" removes matching quotes
