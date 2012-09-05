@@ -18,6 +18,7 @@ git push origin master
 
 INSTALLED MODULES
 =================
+ack
 nerdtree
 snipmate
 sparkup
